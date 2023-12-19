@@ -1,11 +1,11 @@
 
-<h1 align="center">Hi! I'm Hajek Anjum Benoy</h1>
-<h3 align="center">A passionate Programmer from Bangladesh!</h3>
-
-
+<h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi!+I'm+Hajek+Anjum+Benoy" alt="Benoy" /></a>
+</h3>
+<h3>A passionate Programmer from Bangladesh!</h3>
 
 </p>
-<div align="center">
+<div>
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
@@ -13,10 +13,8 @@
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
 </div>
-
-
 <br>
-<div align="center">
+<div>
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
