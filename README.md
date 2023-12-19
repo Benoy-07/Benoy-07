@@ -26,17 +26,17 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently Studing on **Patuakhali Science And Technology University**
+- I’m currently Studing on **Patuakhali Science And Technology University**
 
-- 🌱 I’m currently learning **MySql**
+- I’m currently learning **MySql**
 
-- 💬 Ask me about **Java, C, C++ and MySql**
+- Ask me about **Java, C, C++ and MySql**
 
-- 📫 How to reach me **ug2102046@cse.pstu.ac.bd**
+- How to reach me **ug2102046@cse.pstu.ac.bd**
 
-- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
+- Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
 
-- ⚡ Fun fact **I think I'm funny hot and sexy**
+- Fun fact **I think I'm funny hot and sexy**
 
 <br>
 <!-- connect with me -->
