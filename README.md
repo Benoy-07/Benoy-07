@@ -2,6 +2,9 @@
 <h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi!+I'm+Hajek+Anjum+Benoy" alt="Benoy" /></a>
 </h3>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <h3>A passionate Programmer from Bangladesh!</h3>
 
 </p>
@@ -22,8 +25,9 @@
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
 </div>
-
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <br><br>
 
 - I’m currently Studing on **Patuakhali Science And Technology University**
@@ -34,8 +38,9 @@
 
 - How to reach me **ug2102046@cse.pstu.ac.bd**
 
-- Fun fact **I think I'm funny hot and sexy**
-
+- Fun fact **I think I'm funny romantic and hot**
+- Hobby **Singing and flirting with girls**
+  
 <br>
 <!-- connect with me -->
 <h3 align="left">Connect with me:</h3>
