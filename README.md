@@ -33,7 +33,7 @@
 
 - How to reach me **ug2102046@cse.pstu.ac.bd**
 
-- Fun fact **I think I'm funny romantic and hot**
+- Fun fact **I think I'm funny romantic and hot and sexy boy**
 - Hobby **Singing and flirting with girls**
   
 <br>
