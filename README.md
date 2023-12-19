@@ -34,8 +34,6 @@
 
 - How to reach me **ug2102046@cse.pstu.ac.bd**
 
-- Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
-
 - Fun fact **I think I'm funny hot and sexy**
 
 <br>
