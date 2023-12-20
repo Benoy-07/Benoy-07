@@ -7,7 +7,7 @@
 </p>
 <div>
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
@@ -34,7 +34,7 @@
 - How to reach me **ug2102046@cse.pstu.ac.bd**
 
 - Fun fact **I think I'm funny and romantic**
-- Hobby **Singing and flirting with girls**
+- Hobby **Singing and Playing**
   
 <br>
 <!-- connect with me -->
