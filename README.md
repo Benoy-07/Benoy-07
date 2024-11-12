@@ -23,9 +23,7 @@
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<p align="right">
-  <img src="https://your-repository-link/path-to-gif.gif" alt="Coding Boy">
-</p>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/52356809/167303994-26206bdf-a727-4682-8cd4-ab9dea6cb402.gif" width="500"/>
 
 - I’m currently Studing on **Patuakhali Science And Technology University**
 
