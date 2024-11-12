@@ -1,6 +1,7 @@
-
 <h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi!+I'm+Hajek+Anjum+Benoy" alt="Benoy" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there!!+Glad+to+meet+you" alt="Benoy" />
+</a>
 </h3>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3>A passionate Programmer from Bangladesh!</h3>
