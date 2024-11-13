@@ -22,12 +22,6 @@
 
 ---
 
-## 📚 Current Learning Goals  
-- Strengthen my understanding of cybersecurity fundamentals.  
-- Build projects to apply my skills practically.  
-- Earn introductory certifications like Cisco's Introduction to Cybersecurity.  
-
----
 
 ## 📫 Connect with Me  
 - Email: [ug2102046@cse.pstu.ac.bd]
