@@ -32,8 +32,8 @@ My goal is to build a strong foundation in cybersecurity and contribute to makin
 ---
 
 ## 📫 Connect with Me  
-- **Email:** [youremail@example.com](mailto:youremail@example.com)  
-- **LinkedIn:** [linkedin.com/in/yourprofile](#)  
+- **Email:** [youremail@example.com](ug2102046@cse.pstu.ac.bd)  
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/md-hajek-anjum-benoy-76b601281)  
 
 ---
 
