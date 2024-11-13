@@ -39,6 +39,6 @@ My goal is to build a strong foundation in cybersecurity and contribute to makin
 
 🌟 **"Every expert was once a beginner. Keep learning and growing!"**  
 <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="200" alt="Learning Journey">
-<img src="GIF_URL" width="300" alt="Cybersecurity Animation">
-<img src="https://media.giphy.com/media/9kRtgyD0pd4lO/giphy.gif" width="300" alt="Hacker in Action">
+<img src="GIF_URL" width="300" alt="Boy Finding Error Through Typing">
+<img src="https://media.giphy.com/media/3o6gE5pMK1B2eQ79vS/giphy.gif" width="300" alt="Developer Typing and Finding Errors">
 
