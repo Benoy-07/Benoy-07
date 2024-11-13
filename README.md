@@ -14,7 +14,7 @@
 
 ## 🌟 About Me  
 
--I'm currently studying on Patuakhali Science and Technology University
+- 🎓 I'm currently studying at **Patuakhali Science and Technology University** 🏫.
 
 ---
 
