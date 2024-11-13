@@ -1,42 +1,128 @@
+Benoy, [11/13/2024 3:33 PM]
 <h3>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Hi!+I+am+Hajek+Anjum+Benoy+%F0%9F%91%8B+%F0%9F%98%8A" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there!!+Glad+to+meet+you" alt="Benoy" />
+</a>
 </h3>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<h3>A passionate Programmer from Bangladesh!</h3>
+</p>
+<div>
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+</div>
+<br>
+<div>
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
+</div>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Aspiring+Cybersecurity+Expert;Exploring+Ethical+Hacking+%26+Pentesting;Passionate+About+Securing+Digital+Worlds!" alt="Typing SVG">
 
-🔒 **Beginner Cybersecurity Enthusiast | Exploring Ethical Hacking & Network Security**  
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Cybersecurity Animation">
 
----
+- I’m currently Studing on Patuakhali Science And Technology University
 
-## 🌟 About Me  
-I'm a passionate beginner stepping into the world of cybersecurity. I’m currently learning about:  
-- Ethical hacking and penetration testing  
-- Network security basics  
-- Secure coding practices  
+- I’m currently learning MySql
 
-My goal is to build a strong foundation in cybersecurity and contribute to making the digital world safer.  
+- Ask me about Java, C, C++ and MySql
 
----
+- How to reach me ug2102046@cse.pstu.ac.bd
 
-## 🛠️ Skills & Tools (In Progress)  
-- **Programming Languages:** Python
+- Fun fact I think I'm funny and romantic
+- Hobby Singing and Playing
+  
+<br>
+<!-- connect with me -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+ 
+<a href="https://www.linkedin.com/in/md-hajek-anjum-benoy-76b601281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
+<a href="https://www.facebook.com/hajekanjum.benoy.9?mibextid=9R9pXO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun.nanayakkaraii" height="30" width="40" /></a>
+<a href="https://www.instagram.com/hajek_anjum_benoy/?utm_source=qr&igshid=YzU1NGVlODEzOA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
+</p>
+<br>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## 📚 Current Learning Goals  
-- Strengthen my understanding of cybersecurity fundamentals.  
-- Build projects to apply my skills practically.  
-- Earn introductory certifications like **Cisco's Introduction to Cybersecurity**.  
+<h3 align="left">Languages and Tools:</h3>
 
----
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,cpp,c" />
+  </a>
+</p>
 
-## 📫 Connect with Me  
-- **Email:** [ug2102046@cse.pstu.ac.bd]
-- **LinkedIn:** [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/md-hajek-anjum-benoy-76b601281)]
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css" />
+  </a>
+</p>
 
----
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  </a>
+</p>
 
-🌟 **"Every expert was once a beginner. Keep learning and growing!"**  
-<img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="200" alt="Learning Journey">
 
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  </a>
+</p>
+
+<br/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Trophy:</h3>
+
+Benoy, [11/13/2024 3:33 PM]
+<p align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+  
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Benoy-07&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
+ </div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Benoy-07&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+ </div>
+ <br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+<h3 align="left">GitHub Stats:</h3>
+<div align="center">
+
+ 
+![Benoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benoy-07\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Benoy-07&theme=midnight-purple)](https://git.io/streak-stats)
+</div>
+
+
+<br><br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<h3 align="left">Activity:</h3>
+
+![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Benoy-07&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
