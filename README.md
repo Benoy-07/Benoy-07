@@ -1,126 +1,23 @@
-<h3>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there!!+Glad+to+meet+you" alt="Benoy" />
-</a>
-</h3>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<h3>A passionate Programmer from Bangladesh!</h3>
-</p>
-<div>
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
- <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-</div>
-<br>
-<div>
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
-</div>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Aspiring+Cybersecurity+Expert;Exploring+Ethical+Hacking+%26+Pentesting;Passionate+About+Securing+Digital+Worlds!" alt="Typing SVG">
+# 👋 Hi, I'm [Your Name]  
 
+🔒 **Beginner Cybersecurity Learner | Exploring Ethical Hacking & Network Security**  
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Cybersecurity GIF">
 
-- I’m currently Studing on **Patuakhali Science And Technology University**
+---
 
-- I’m currently learning **MySql**
+## 🌟 About Me  
+I’m starting my journey in cybersecurity with a strong interest in ethical hacking, network security, and secure coding practices.  
+📈 Currently growing my skills and learning step by step!  
+<img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="300" alt="Learning Journey">
 
-- Ask me about **Java, C, C++ and MySql**
+---
 
-- How to reach me **ug2102046@cse.pstu.ac.bd**
+## 📂 Learning Projects  
+- 🔐 **[Basic Password Manager](#):** A simple Python script to manage and encrypt passwords.  
+- 🌐 **[Port Scanner](#):** A beginner-friendly tool to scan open ports on a network.  
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="250" alt="Coding GIF">
 
-- Fun fact **I think I'm funny and romantic**
-- Hobby **Singing and Playing**
-  
-<br>
-<!-- connect with me -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
- 
-<a href="https://www.linkedin.com/in/md-hajek-anjum-benoy-76b601281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
-<a href="https://www.facebook.com/hajekanjum.benoy.9?mibextid=9R9pXO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun.nanayakkaraii" height="30" width="40" /></a>
-<a href="https://www.instagram.com/hajek_anjum_benoy/?utm_source=qr&igshid=YzU1NGVlODEzOA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
-</p>
-<br>
+---
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">Languages and Tools:</h3>
-
-- Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,cpp,c" />
-  </a>
-</p>
-
-- Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css" />
-  </a>
-</p>
-
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-  </a>
-</p>
-
-
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-  </a>
-</p>
-
-<br/>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">Trophy:</h3>
-
-<p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
-  
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Benoy-07&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
- </div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Benoy-07&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
- </div>
- <br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-
-<h3 align="left">GitHub Stats:</h3>
-<div align="center">
-
- 
-![Benoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benoy-07\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Benoy-07&theme=midnight-purple)](https://git.io/streak-stats)
-</div>
-
-
-<br><br>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<h3 align="left">Activity:</h3>
-
-![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Benoy-07&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+🌟 **"Every expert was once a beginner. Keep learning and growing!"**  
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" alt="Motivational GIF">
