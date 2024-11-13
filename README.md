@@ -1,4 +1,8 @@
-# 👋 Hi, I'm [Your Name]  
+<h3>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Hi!+%F0%9F%98%8A+Glad+to+see+you+here+on+my+GitHub+profile!" alt="Typing SVG" />
+  </a>
+</h3>
 
 🔒 **Beginner Cybersecurity Enthusiast | Exploring Ethical Hacking & Network Security**  
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Cybersecurity Animation">
@@ -16,14 +20,7 @@ My goal is to build a strong foundation in cybersecurity and contribute to makin
 ---
 
 ## 🛠️ Skills & Tools (In Progress)  
-- **Programming Languages:** Python, Bash  
-- **Cybersecurity Tools:**  
-  - Wireshark: For analyzing network traffic  
-  - Nmap: For scanning networks and discovering open ports  
-  - Burp Suite: For basic web application security testing  
-- **Topics of Interest:**  
-  - Vulnerability scanning  
-  - Network traffic analysis  
+- **Programming Languages:** Python
 
 ---
 
@@ -41,4 +38,4 @@ My goal is to build a strong foundation in cybersecurity and contribute to makin
 ---
 
 🌟 **"Every expert was once a beginner. Keep learning and growing!"**  
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" alt="Motivational GIF">
+<img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="200" alt="Learning Journey">
