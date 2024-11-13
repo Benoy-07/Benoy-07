@@ -1,23 +1,48 @@
 # 👋 Hi, I'm [Your Name]  
 
 🔒 **Beginner Cybersecurity Learner | Exploring Ethical Hacking & Network Security**  
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Cybersecurity GIF">
 
 ---
 
 ## 🌟 About Me  
-I’m starting my journey in cybersecurity with a strong interest in ethical hacking, network security, and secure coding practices.  
-📈 Currently growing my skills and learning step by step!  
-<img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="300" alt="Learning Journey">
+I’m starting my journey in cybersecurity with a strong interest in ethical hacking, network security, and secure coding practices. My current focus is on learning foundational concepts and building practical skills through hands-on projects.  
+
+---
+
+## 🛠️ Skills & Tools (Learning In Progress)  
+- **Programming Languages:** Python, Bash  
+- **Cybersecurity Tools:** Wireshark, Nmap  
+- **Topics:**  
+  - Basics of Penetration Testing  
+  - Vulnerability Scanning  
+  - Network Traffic Analysis  
 
 ---
 
 ## 📂 Learning Projects  
 - 🔐 **[Basic Password Manager](#):** A simple Python script to manage and encrypt passwords.  
 - 🌐 **[Port Scanner](#):** A beginner-friendly tool to scan open ports on a network.  
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="250" alt="Coding GIF">
+- 🛡️ **[Secure Login Demo](#):** A demo project showcasing secure login practices.  
 
 ---
 
-🌟 **"Every expert was once a beginner. Keep learning and growing!"**  
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" alt="Motivational GIF">
+## 📚 Current Learning Goals  
+- Deepen my understanding of network security.  
+- Learn the basics of ethical hacking and penetration testing.  
+- Complete introductory cybersecurity certifications.  
+
+---
+
+## 🏆 Certifications (In Progress)  
+- [Introduction to Cybersecurity - Cisco Networking Academy](#)  
+- [CompTIA Security+](#) *(In Progress)*  
+
+---
+
+## 📫 How to Reach Me  
+- **Email:** [youremail@example.com](mailto:youremail@example.com)  
+- **LinkedIn:** [linkedin.com/in/yourprofile](#)  
+
+---
+
+🌟 **"Every expert was once a beginner. Keep learning and growing!"**
