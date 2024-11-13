@@ -7,7 +7,9 @@
 🔒 Beginner Cybersecurity Enthusiast | Exploring Ethical Hacking & Network Security  
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Cybersecurity Animation">
 
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 ## 🌟 About Me  
 I'm a passionate beginner stepping into the world of cybersecurity. I’m currently learning about:  
@@ -17,25 +19,25 @@ I'm a passionate beginner stepping into the world of cybersecurity. I’m curren
 
 My goal is to build a strong foundation in cybersecurity and contribute to making the digital world safer.  
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🛠 Skills & Tools (In Progress)  
 - Programming Languages: Python
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 📚 Current Learning Goals  
 - Strengthen my understanding of cybersecurity fundamentals.  
 - Build projects to apply my skills practically.  
 - Earn introductory certifications like Cisco's Introduction to Cybersecurity.  
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 📫 Connect with Me  
 - Email: [ug2102046@cse.pstu.ac.bd]
 - LinkedIn: [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/md-hajek-anjum-benoy-76b601281)]
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 🌟 "Every expert was once a beginner. Keep learning and growing!"  
 <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="200" alt="Learning Journey">
