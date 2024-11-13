@@ -36,7 +36,6 @@
 
 <h3 align="left">Trophy:</h3>
 
-Benoy, [11/13/2024 3:33 PM]
 <p align="center">
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
   
