@@ -12,12 +12,8 @@
 
 
 ## 🌟 About Me  
-I'm a passionate beginner stepping into the world of cybersecurity. I’m currently learning about:  
-- Ethical hacking and penetration testing  
-- Network security basics  
-- Secure coding practices  
 
-My goal is to build a strong foundation in cybersecurity and contribute to making the digital world safer.  
+-I'm currently studying on Patuakhali Science and Technology University
 
 ---
 
