@@ -7,7 +7,7 @@
 🔒 Beginner Cybersecurity Enthusiast | Exploring Ethical Hacking & Network Security  
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Cybersecurity Animation">
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🌟 About Me  
 I'm a passionate beginner stepping into the world of cybersecurity. I’m currently learning about:  
