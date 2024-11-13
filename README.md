@@ -27,14 +27,6 @@ My goal is to build a strong foundation in cybersecurity and contribute to makin
 
 ---
 
-## 📂 Projects  
-Here are a few beginner-friendly projects I’ve been working on:  
-- 🔐 **[Basic Password Manager](#):** A simple script to encrypt and manage passwords.  
-- 🌐 **[Port Scanner](#):** A tool for scanning open ports on a network.  
-- 🛡️ **[Secure Login Demo](#):** A basic implementation of secure login practices.  
-
----
-
 ## 📚 Current Learning Goals  
 - Strengthen my understanding of cybersecurity fundamentals.  
 - Build projects to apply my skills practically.  
