@@ -40,5 +40,5 @@ My goal is to build a strong foundation in cybersecurity and contribute to makin
 
 ---
 
-🌟 **"The journey of a thousand miles begins with a single step. Let's secure the world together!"**  
-<img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="200" alt="Learning Journey">
+🌟 **"Every expert was once a beginner. Keep learning and growing!"**  
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" alt="Motivational GIF">
