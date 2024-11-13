@@ -37,22 +37,30 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
+  <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+    
+    <!-- Stars on the Left -->
+    <div style="flex: 1; text-align: left;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Benoy-07&theme=midnight-purple&show_icons=true&count_private=true&hide=contribs,issues" alt="Benoy's GitHub stats" width="350">
+    </div>
+    
+    <!-- Activity Graph on the Right -->
+    <div style="flex: 1; text-align: right;">
+      <img src="https://streak-stats.demolab.com/?user=Benoy-07&theme=midnight-purple" alt="GitHub Streak" width="350">
+    </div>
 
- 
-![Benoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benoy-07\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Benoy-07&theme=midnight-purple)](https://git.io/streak-stats)
+  </div>
 </div>
-
 
 <br><br>
 
 ---
 
-<h3 align="left">Activity:</h3>
+<h3 align="left">Activity Graph:</h3>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Benoy-07&custom_title=Benoy's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Benoy's Activity Graph" width="100%">
+</div>
 
-![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Benoy-07&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
