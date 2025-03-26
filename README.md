@@ -16,19 +16,6 @@ while (world.hasHate()) {
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-
-## 🌟 About Me  
-
-- 🎓 I'm currently studying at **Patuakhali Science and Technology University** 🏫.
-
----
-
-## 🛠 Skills & Tools (In Progress)  
-- Programming Languages: C, C++, Python
-
----
-
-
 ## 📫 Connect with Me  
 - Email: [ug2102046@cse.pstu.ac.bd]
 - LinkedIn: [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/md-hajek-anjum-benoy-76b601281)]
@@ -44,13 +31,6 @@ while (world.hasHate()) {
 
 </div>
 
-<br><br>
-
----
-
-<h3 align="left">Activity:</h3>
-
-![Benoy's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Benoy-07&custom_title=Benoy's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 
 
