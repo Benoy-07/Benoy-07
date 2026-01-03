@@ -1,39 +1,27 @@
-<h3>
+<!-- ================= DARK HACKER MODE ================= -->
+
+<h1 align="center">
+  ⚠️ ERROR 404 ⚠️
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ACCESS-DENIED-red?style=for-the-badge&logo=protonvpn">
+  <img src="https://img.shields.io/badge/SYSTEM-LOCKED-black?style=for-the-badge&logo=linux">
+  <img src="https://img.shields.io/badge/FIREWALL-ACTIVE-00FF9C?style=for-the-badge&logo=cloudflare">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260">
+</p>
+
+<h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Hi!+This+is+Benoy+%F0%9F%91%8B+%F0%9F%98%8A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=900&color=00FF9C&center=true&vCenter=true&width=800&lines=Trying+to+break+the+door...🔓;Oops!+Wrong+key+again+😅;Learning+how+locks+work+🛠️;One+day...+door+opens+🛡️" />
   </a>
 </h3>
 
-<br>
+<p align="center">
+  <em>“Not hacking yet… just aggressively knocking 🚪💥”</em>
+</p>
 
-while (world.hasHate()) {  
-    compileMoreLove();  
-}  
-*"Error: Heart overflow (good problem to have)"*   <br>
-
-<img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="200" alt="Learning Journey">
-
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-## 📫 Connect with Me  
-- Email: [ug2102046@cse.pstu.ac.bd]
-- LinkedIn: [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/md-hajek-anjum-benoy-76b601281)]
-
----
-
-<h3 align="left">GitHub Stats:</h3>
-<div align="center">
-
-  ![Benoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benoy-07&theme=midnight-purple&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues)
-
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Benoy-07&theme=midnight-purple)](https://git.io/streak-stats)
-
-</div>
-
-<br><br>
-
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<!-- ================= END TOP ================= -->
